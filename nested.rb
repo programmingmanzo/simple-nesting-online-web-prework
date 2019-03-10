@@ -130,7 +130,7 @@ def adding_to_dennis
         }
      }
      adding_string = programmer_hash[:dennis_ritchie][:languages]
-     adding_string.push = "Assembly"
+     adding_string.push("Assembly")
      programmer_hash
 
 end
